@@ -1,0 +1,19 @@
+product_id,brand,model_name,launch_year,storage_gb,ram_gb,price,operating_system,color
+PROD0001,Apple,iPhone 15,2025,128,8,1791.91,iOS,Silver
+PROD0002,Apple,iPhone 15 Pro,2024,512,16,1107.54,iOS,Black
+PROD0003,Apple,iPhone 16,2024,256,16,1030.01,iOS,White
+PROD0004,Apple,iPhone 16 Pro,2026,1024,16,1673.84,iOS,Silver
+PROD0005,Samsung,Galaxy S24,2025,1024,12,1402.4,Android,Black
+PROD0006,Samsung,Galaxy S24 Ultra,2024,128,12,1705.77,Android,Black
+PROD0007,Samsung,Galaxy S25,2024,512,8,1243.1,Android,White
+PROD0008,Samsung,Galaxy Z Fold 7,2024,512,16,1427.97,Android,Blue
+PROD0009,Google,Pixel 9,2026,128,16,1792.14,Android,White
+PROD0010,Google,Pixel 9 Pro,2024,128,8,1536.87,Android,Green
+PROD0011,Google,Pixel 10,2026,512,8,1771.03,Android,Green
+PROD0012,Google,Pixel Fold,2025,128,16,1815.8,Android,Blue
+PROD0013,OnePlus,OnePlus 13,2026,512,12,1589.62,Android,Blue
+PROD0014,OnePlus,OnePlus Open,2025,512,16,1014.56,Android,Blue
+PROD0015,OnePlus,OnePlus Nord 5,2025,1024,16,1632.24,Android,Blue
+PROD0016,Xiaomi,Xiaomi 15,2025,1024,8,1294.76,Android,Green
+PROD0017,Xiaomi,Xiaomi 15 Ultra,2024,256,16,1720.69,Android,Blue
+PROD0018,Xiaomi,Redmi Note 14,2024,1024,8,1083.92,Android,Blue
